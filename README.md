@@ -10,11 +10,11 @@
 ## Languages and Tools:
 
 [<img alt="java" width="40px" src="https://user-images.githubusercontent.com/52386206/150535090-6deb3ee1-c7fd-4de0-afc4-bbebd5eb9ab9.png" />][1]
-[<img alt="c" width="40px" src="https://user-images.githubusercontent.com/52386206/150535074-1825c937-176c-47a2-bfe0-02bfa6648784.png" />][2]
-[<img alt="c++" width="40px" src="https://user-images.githubusercontent.com/52386206/150535134-eea8d9bf-8f8b-4802-bb11-6e42cf252c1c.png" />][3]
-[<img alt="python" width="40px" src="https://user-images.githubusercontent.com/52386206/150535161-cb4de80a-3286-46a3-9585-161f0b0532aa.png" />][4]
-[<img alt="obj-c" width="40px" src="https://user-images.githubusercontent.com/52386206/150535481-7bb8eae5-00a0-44d7-9ea0-866b2d363026.png" />][5]
-[<img alt="js" width="40px" src="https://user-images.githubusercontent.com/52386206/150535270-141e2728-9e22-4796-860b-9d917e4154e6.png" />][6]
+[<img alt="js" width="40px" src="https://user-images.githubusercontent.com/52386206/150535270-141e2728-9e22-4796-860b-9d917e4154e6.png" />][2]
+[<img alt="typescript" width="40px" src="https://github.com/user-attachments/assets/ba76f9ce-001b-4f59-bd44-0480a328cb16" />][3]
+[<img alt="c++" width="40px" src="https://user-images.githubusercontent.com/52386206/150535134-eea8d9bf-8f8b-4802-bb11-6e42cf252c1c.png" />][4]
+[<img alt="python" width="40px" src="https://user-images.githubusercontent.com/52386206/150535161-cb4de80a-3286-46a3-9585-161f0b0532aa.png" />][5]
+[<img alt="dart" width="40px" src="https://github.com/user-attachments/assets/2620a4a5-caf9-4da2-85c8-231954722182" />][6]
 [<img alt="html5" width="40px" src="https://user-images.githubusercontent.com/52386206/150535387-60826c1c-a226-4e60-9e4f-71d50431a1e3.png" />][7]
 [<img alt="css3" width="40px" src="https://user-images.githubusercontent.com/52386206/150535395-539117ce-abac-4cf1-b1d8-58dfaeefebfd.png" />][8]
 [<img alt="nvidia_cuda" width="40px" src="https://user-images.githubusercontent.com/52386206/150535442-14c5c144-3dc8-4a47-9f38-a350df254150.jpg" />][9]
@@ -31,13 +31,13 @@
 [<img alt="command_prompt" width="40px" src="https://user-images.githubusercontent.com/52386206/150542240-ea5c40b4-b6df-4fab-995e-3aa88413f0ff.png" />][20]
 
 [1]: https://www.java.com/en/
-[2]: https://en.wikipedia.org/wiki/C_(programming_language)
-[3]: https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20a%20cross%2Dplatform,over%20system%20resources%20and%20memory.
-[4]: https://www.python.org/
-[5]: https://en.wikipedia.org/wiki/Objective-C
-[6]: https://www.javascript.com/
-[7]: https://html.spec.whatwg.org/multipage/
-[8]: https://www.w3schools.com/css/
+[2]: https://www.javascript.com/
+[3]: https://www.typescriptlang.org/
+[4]: https://isocpp.org/
+[5]: https://www.python.org/
+[6]: https://dart.dev/
+[7]: https://html5.org/
+[8]: https://www.w3.org/Style/CSS/Overview.en.html
 [9]: https://developer.nvidia.com/cuda-downloads
 [10]: https://www.mysql.com/
 [11]: https://www.postgresql.org/
